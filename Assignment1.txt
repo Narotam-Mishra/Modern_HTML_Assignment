@@ -1,0 +1,13 @@
+# Features of HTML5 :-
+
+1). Audio and Video tags are the two major addition to HTML5. It allows developers to embed a video or audio file on their website. HTML5 video can use CSS to style the video tag.
+
+2). Vector Graphics i.e, svg type images, is a new addition to the revised version which has hugely impacted the use of Adobe Flash in websites. It can be used to draw graphics with various shapes and colors via scripting usually JS.
+
+3). With the use of 'header' and 'footer', there is no longer a need to identify the two elements with a <div> tag. Footer is placed at the end of the web page while Header is placed at the start of the web page. By using <header> and <footer> HTML5 elements, the browser will know what to load first and what to load later.
+
+4). HTML5 allows to use a <figure> element to mark up a photo in a document, and a <figcaption> element to define a caption for the photo. The <figcaption> tag defines a caption for a <figure> element. This tag provides a container for content that is equivalent to a figure. It can be used to group a caption with one or more images, a block of code, or other content.
+
+5). The <nav> tag defines a set of navigation links. It is used for the part of an internet site that links to different pages at the website. The hyperlinks can be organized through a number of approaches.
+
+6). The 'progress' tag is used to check the progress of a task during the execution. Progress tag can be used with the conjunction of JavaScript.

@@ -1,0 +1,13 @@
+Question 4 - List any 3 ways which help us in improving the accessibility of HTML.
+
+# Different ways to improve the accessibility of HTML are -
+
+1). Always add alt text to images :- Image alt text makes it easier for people with visionary disabilities to understand the content of a webpage. We should include the alt text only for informational images that aid in the understanding of the content.
+
+2). Try to maintain heading hierarchy :- If we don't use headings in the correct hierarchy (from <h1> – the biggest – to <h6> – the smallest), screen readers might assume there's some content missing and hence it is always a best practice to use <h1> for the main title only, <h2> for headings that come after the title, h3 for subheadings, and so on.
+
+3). Use the Aria Property or Label Tag for Input Fields :- Aria labels or <label> tags tell screen readers what type of information an input field expects. Without them, screen readers would not know the purpose of an input field, which would provide a bad user experience to visually disabled users.
+
+4). Always provide keyword functionality :- Not all users can use a pointing device mouse, yet a lot of websites do not provide keyboard functionality to users. This discourages users who only use the keyboard from returning to your website.
+
+5). Use an Accessible Color Palette :- Bad color contrasts ruin the overall experience for people without disabilities as well as for those with disabilities. So it's important to get the contrast and complementary colors correct when designing your site.
